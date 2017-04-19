@@ -85,6 +85,7 @@ p {
 /* Mobile Version */
 @media (max-width: 767px) {
   section {
-    margin-top: 25px;
+    width: 95%;
+    margin: 25px 2.5% 0 2.5%;
   }
 }
